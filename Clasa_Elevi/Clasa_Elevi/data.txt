@@ -1,0 +1,6 @@
+﻿Bursasiu Ionut 7 9 5 8 3 5 5 4
+Bucataru Robert 2 5 10
+Copil Ionut 4 8 9 2 5
+Copil Iuliu 5 2 3 3 9 9
+Popa Stefan 8 4 5 6 6 8 2 9 9 
+Matica Andrei 9 4 6 8 7 2 2 5 9 9
